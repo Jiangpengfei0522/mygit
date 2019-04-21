@@ -1,6 +1,6 @@
 package com.ssm.controller;
 import com.ssm.model.User;
-import com.ssm.service.impl.IUserService;
+import com.ssm.service.IUserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
